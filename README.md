@@ -17,5 +17,6 @@ My Contributions:
 - Automated categorizing and counting orders based on text data provided in both the "Buyer Message" and "Seller Note" columns. This process utilizes machine learning techniques, including TF-IDF vectorization and a pre-trained model, to predict the category for each word in the text data. The predicted categories are then used to determine the count of each category. Additionally, the code includes a condition to handle special cases and assigns values to the 'random' column accordingly. The resulting DataFrame contains the original data along with the predicted categories and counts.
 
 Result
+
 Achieved an accuracy rate of 86% in the logistic regression model during training.
 Achieved 99% accuracy when utilizing this model for order counting. The dataset comprises orders checked out by customers on May 1st, 2024.
