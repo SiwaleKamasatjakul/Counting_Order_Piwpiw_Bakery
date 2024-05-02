@@ -18,5 +18,5 @@ My Contributions:
 
 Result
 
-Achieved an accuracy rate of 86% in the logistic regression model during training.
-Achieved 99% accuracy when utilizing this model for order counting. The dataset comprises orders checked out by customers on May 1st, 2024.
+1. Achieved an accuracy rate of 86% in the logistic regression model during training.
+2. Achieved 99% accuracy when utilizing this model for order counting. The dataset comprises orders checked out by customers on May 1st, 2024.
